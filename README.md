@@ -1,9 +1,8 @@
 ## 👋Introduction
-Hi, my name is Daria, based in Moscow (Russia) and I'm Java student.
-
+Hi, my name is Daria, based in Moscow (Russia) and I'm Java student.  
 Working in the advertising industry, seeking for entry-level position in Software Development.
 
-🔭  I’m currently working on the pet-project "Activities with Kids"
+🔭  I’m currently creating pet-project "Activities with Kids"
 
 
 ### Skills
