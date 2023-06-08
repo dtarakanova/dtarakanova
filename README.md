@@ -1,6 +1,6 @@
 ## Introduction
 Hi, my name is Daria, based in Moscow (Russia).  
-I'm Java student seeking for entry-level position in Software Development.  
+❗I'm Java student seeking for entry-level position in Software Development.  
 
 Now working in the advertising industry (knowledge of spheres: FMCG, automobile, fashion).
 
