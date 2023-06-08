@@ -1,7 +1,11 @@
-Hi 👋 My name is Daria
+👋Introduction
 =================================
+Hi, my name is Daria, I'm Java student.
+Currently working in the advertising industry, seeking for entry position in Software Development.
 
-🧠  I'm learning Java
+
+🧠  
+I'm learning Java
 🌍  I'm based in Moscow, Russia
 🤝  I'm open to collaborating on Java entry positions
 🔭  I’m currently working on the pet-project "Activities with Kids"
