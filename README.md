@@ -17,7 +17,7 @@ Now working in the advertising industry (knowledge of spheres: FMCG, automobile,
 </p>
 
 ## Soft Skills
-🔹Fast learner 
+🔹Fast learner  
 🔹Problem solver  
 🔹Open-minded  
 🔹Focused on the business needs  
