@@ -1,10 +1,10 @@
-Hi 👋 My name is Daria Tarakanova
+Hi 👋 My name is Daria
 =================================
 
-* 🧠  I'm learning Java
-* 🌍  I'm based in Moscow, Russia
-* 🤝  I'm open to collaborating on Java entry positions
-* 🔭 I’m currently working on the pet-project "Activities with Kids"
+🧠  I'm learning Java
+🌍  I'm based in Moscow, Russia
+🤝  I'm open to collaborating on Java entry positions
+🔭  I’m currently working on the pet-project "Activities with Kids"
 
 ### Skills
 
