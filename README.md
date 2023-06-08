@@ -1,13 +1,18 @@
 ## Introduction
 Hi, my name is Daria, based in Moscow (Russia).  
-❗I'm Java student seeking for entry-level position in Software Development.❗  
+❗ **Java student seeking for entry-level position in Software Development.** ❗  
 
-Now working in the advertising industry (knowledge of spheres: FMCG, automobile, fashion).
+I've been working in the advertising industry for 10+ years (knowledge of spheres: FMCG, automobile, fashion).
 
-💻  I’m currently creating **pet-project "Activities with Kids"**
+💻 Currently creating **pet-project "Activities with Kids"**
 
 
 ## Educational Projects
+[Math games](https://github.com/dtarakanova/Math-games)  
+[Data validator](https://github.com/dtarakanova/java-project-78)  
+
+[Codewars practices](https://www.codewars.com/users/dtarakanova)
+
 
 ## Hard Skills
 
@@ -24,8 +29,6 @@ Now working in the advertising industry (knowledge of spheres: FMCG, automobile,
 🔹Strong in any types of communication  
 🔹Excellent at both teamwork and working independently  
 🔹Reliable  
-
-## Codewars - my guilty pleasure
 
 
 
