@@ -25,6 +25,9 @@ Now working in the advertising industry (knowledge of spheres: FMCG, automobile,
 🔹Excellent at both teamwork and working independently  
 🔹Reliable  
 
+## Codewars - my guilty pleasure
+
+
 
 
 
