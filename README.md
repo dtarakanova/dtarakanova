@@ -29,6 +29,8 @@ I've been working in the advertising industry for 10+ years (knowledge of sphere
 🔹Strong in any types of communication  
 🔹Excellent at both teamwork and working independently  
 🔹Reliable  
+🔹Creative  
+
 
 
 
