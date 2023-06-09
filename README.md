@@ -24,7 +24,6 @@ I've been working in the advertising industry for 10+ years (knowledge of sphere
 <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"/></a>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Code%20Climate-000000?style=for-the-badge&logo=Code%20Climate&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 
 </p>
 
