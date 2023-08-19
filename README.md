@@ -1,11 +1,5 @@
 ## Introduction
-Hi, my name is Daria, based in Moscow (Russia).  
 ❗ **Java student seeking for entry-level position in Software Development.** ❗  
-
-I've been working in the advertising industry for 10+ years (knowledge of spheres: FMCG, automobile, fashion).
-
-💻 Currently creating **pet-project "Activities with Kids"**
-
 
 ## Educational Projects
 [Math games](https://github.com/dtarakanova/Math-games)  
