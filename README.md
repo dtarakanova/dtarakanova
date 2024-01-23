@@ -1,5 +1,5 @@
 ## Introduction
-❗ **Java student seeking for entry-level position in Software Development.** ❗  
+**Java student seeking for entry-level position in Software Development.**
 
 ## Educational Projects
 [Math games](https://github.com/dtarakanova/Math-games)  
