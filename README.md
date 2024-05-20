@@ -36,6 +36,3 @@
 🔹Focused on the business needs  
 🔹Strong in any types of communication  
 🔹Excellent at both teamwork and working independently  
-🔹Reliable  
-🔹Creative  
-
