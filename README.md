@@ -2,8 +2,10 @@
 **Java student seeking for entry-level position in Software Development.**
 
 ## Educational Projects
+[Online Page Analyzer](https://github.com/dtarakanova/java-project-72)  
+[Data validator](https://github.com/dtarakanova/java-project-78) 
 [Math games](https://github.com/dtarakanova/Math-games)  
-[Data validator](https://github.com/dtarakanova/java-project-78)  
+
 
 [Codewars practices](https://www.codewars.com/users/dtarakanova)
 
