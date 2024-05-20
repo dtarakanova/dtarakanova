@@ -1,6 +1,6 @@
 ## Introduction
 **Java student seeking for entry-level position in Software Development.**  
-[READ CV](https://cv.hexlet.io/ru/resumes/3156)  
+[READ CV](https://cv.hexlet.io/ru/resumes/3156)    
 Email: dshargalina@gmail.com
 
 ## Educational Projects
