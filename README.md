@@ -3,7 +3,7 @@
 
 ## Educational Projects
 [Online Page Analyzer](https://github.com/dtarakanova/java-project-72)  
-[Data validator](https://github.com/dtarakanova/java-project-78)
+[Data validator](https://github.com/dtarakanova/java-project-78)  
 [Math games](https://github.com/dtarakanova/Math-games)  
 
 
