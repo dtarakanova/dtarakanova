@@ -7,7 +7,7 @@ Email: dshargalina@gmail.com
 ## Educational Projects
 [Online Page Analyzer](https://github.com/dtarakanova/java-project-72)  
 [Data validator](https://github.com/dtarakanova/java-project-78)  
-[Math games](https://github.com/dtarakanova/Math-games)
+[Math games](https://github.com/dtarakanova/Math-games)  
 [Custom cake order website (using SPRING) - in progress](https://github.com/dtarakanova/pastrychef)
 
 
